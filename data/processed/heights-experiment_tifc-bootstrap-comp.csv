@@ -1,0 +1,12 @@
+sp,npairs,total_duration_full,total_duration_half,half_dur_as_pct_of_full_median,half_dur_as_pct_of_full_lci,half_dur_as_pct_of_full_uci
+Black Bear,10,4588.91,8515.06,186.39,136.07,280.61
+Canada Lynx,6,119.36,467,391.24,190.53,3839.2
+Cougar,2,100.72,293.35,291.25,202.87,367.32
+Coyote,9,1598.66,3024.53,192,137.02,401.26
+Fisher,4,89.92,288.69,321.05,209.2,Inf
+Gray Wolf,3,173.89,309.11,177.76,131.29,358.57
+Marten,4,86.35,164.76,190.81,89.12,Inf
+Moose,8,3113.28,2649.75,85.26,73.91,93.48
+Red Squirrel,6,26.37,385.3,1451.04,749.25,3398.5
+Snowshoe Hare,9,428.97,1539.61,371.43,175.47,746.31
+White-tailed Deer,10,14109.35,20513.74,144.41,112.88,175.68

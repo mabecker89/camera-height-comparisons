@@ -1,0 +1,12 @@
+common_name,total_images_full,total_images_half,avg_images_full,avg_images_half,factor_median,factor_lci,factor_uci
+Black Bear,654,1550,4.54,10.76,2.37,2.06,2.77
+Canada Lynx,25,92,0.86,3.17,3.68,2.07,7
+Cougar,20,87,2,8.7,4.39,2.8,9.01
+Coyote,202,491,2.66,6.46,2.48,1.74,3.58
+Fisher,9,47,0.6,3.13,5.29,2.93,13.2
+Gray Wolf,13,37,2.17,6.17,3,1.42,23
+Marten,12,30,0.71,1.76,2.5,1.23,5.71
+Moose,782,678,11.85,10.27,0.86,0.73,1.03
+Red Squirrel,4,61,0.08,1.27,15.5,6.99,70.05
+Snowshoe Hare,57,227,0.37,1.46,4,3.05,5.4
+White-tailed Deer,2807,4507,3.58,5.75,1.6,1.48,1.75
